@@ -1,0 +1,12 @@
+2021/03/29 16:11:19 [error] 13024#12732: *1 CreateFile() "./html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2021/03/29 16:17:12 [notice] 5428#12608: signal process started
+2021/03/29 16:18:56 [notice] 11668#1840: signal process started
+2021/03/29 16:21:33 [notice] 12484#11972: signal process started
+2021/03/29 16:24:39 [notice] 10360#5308: signal process started
+2021/03/29 16:27:27 [notice] 9032#10648: signal process started
+2021/03/29 16:28:15 [notice] 5228#11564: signal process started
+2021/03/29 16:31:45 [notice] 4568#12752: signal process started
+2021/03/29 16:50:29 [notice] 9420#5088: signal process started
+2021/03/29 17:01:21 [emerg] 11860#9968: host not found in upstream "192.168.0.12.81" in ./conf/nginx.conf:14
+2021/03/29 17:01:21 [alert] 1160#2344: worker process 11860 exited with code 1
+2021/03/29 17:01:21 [alert] 1160#2344: could not respawn worker
